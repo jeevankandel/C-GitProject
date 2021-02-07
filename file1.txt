@@ -1,5 +1,10 @@
 initial:hello jeevan
+<<<<<<< HEAD
  
 change1 :wi1 the first change extra added 1
 
 change 2:wi2 the second change
+=======
+
+chn: the changes in slave
+>>>>>>> slave
