@@ -1,1 +1,3 @@
 initial:hello jeevan
+
+chn: the changes in slave
