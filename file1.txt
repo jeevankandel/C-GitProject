@@ -1,3 +1,4 @@
 initial:hello jeevan
 
-chn: the changes in slave
+chn1: the changes in slave 
+chn2: the second change
